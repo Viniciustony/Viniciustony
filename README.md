@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`** 
 
-Olá, sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Universidade do Estado de Santa Catarina (UDESC)** e atuo como Analista de Suporte na "[ArcelorMittal | Tuper](https://www.tuper.com.br/)". Atualmente, estou focado em Desenvolvimento Web, criando projetos práticos que geram impacto real na experiência dos usuários.
+Olá, sou estudante de **Sistemas de Informação** pela **Universidade do Estado de Santa Catarina (UDESC)** e atuo como estagiário de Desenvolvimento de Sistemas na "[ArcelorMittal | Tuper](https://www.tuper.com.br/)". Atualmente, estou focado em Desenvolvimento Web, criando projetos práticos que geram impacto real na experiência dos usuários.
 
 ---
 ### 🤖 Tecnologias e Linguagens
